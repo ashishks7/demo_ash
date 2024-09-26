@@ -1,0 +1,5 @@
+queries:
+   create_table:
+   use_db: use pharma; 
+   select_data: SELECT * FROM orders;
+   insert_into: INSERT INTO EMPLOYEE VALUES ("ANKIT", 123);
